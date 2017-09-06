@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://wise@gpu-2:22/home/wise/wise_integrate/3rd_party/python/bin/python" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gpu-2" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="ssh://wise@gpu-2:22/home/wise/wise_integrate/3rd_party/python/bin/python">
+      <paths name="gpu-2">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/wise/zsw-workspace" local="$PROJECT_DIR$" />
+            <mapping deploy="/" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>

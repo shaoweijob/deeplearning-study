@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ssh://wise@gpu-2:22/home/wise/wise_integrate/3rd_party/python/bin/python" name="ssh://wise@gpu-2:22/home/wise/wise_integrate/3rd_party/python/bin/python">
-        <fileTransfer host="gpu-2" port="22" accessType="SFTP">
+      <webServer id="ssh://wise@gpu-2:22/home/wise/wise_integrate/3rd_party/python/bin/python" name="gpu-2" url="http://gpu-2/workspace">
+        <fileTransfer host="gpu-2" port="22" rootFolder="/home/wise/zsw-workspace" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
